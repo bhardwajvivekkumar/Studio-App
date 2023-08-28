@@ -1,0 +1,82 @@
+.contactbackground {
+  position: absolute;
+  width: 1197px;
+  height: 292px;
+  left: 11vh;
+  top: 420vh;
+
+  background: #f4f9ff;
+  border-radius: 75px;
+}
+
+.backgroundleaf {
+  position: absolute;
+  width: 178px;
+  height: 178px;
+  left: -4vh;
+  top: 20vh;
+  z-index: -1;
+  background: #fff5db;
+  border-radius: 0px 0px 100px 0px;
+  transform: rotate(90deg);
+}
+
+.subscription {
+  position: absolute;
+  top: 8vh;
+  left: 8vh;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 4vh;
+  text-align: justify;
+  width: 70vh;
+}
+
+.subscriptioninfo {
+  position: absolute;
+  top: 17vh;
+  left: 8vh;
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  width: 75vh;
+}
+
+.input input {
+  box-sizing: border-box;
+  position: absolute;
+  width: 479px;
+  height: 80px;
+  left: 80vh;
+  top: 12vh;
+  background: #ffffff;
+  border: 1px solid #f1f1f1;
+  box-shadow: 10px 20px 50px rgba(0, 0, 0, 0.15);
+  border-radius: 60px;
+  padding: 5vh;
+  z-index: 2;
+}
+
+.contactbutton button {
+  height: 6vh;
+  width: 25vh;
+  position: absolute;
+  top: 14vh;
+  left: 115vh;
+  color: white;
+  background-color: #2639ed;
+  border: none;
+  border-radius: 5vh;
+  font-family: "Poppins", sans-serif;
+  z-index: 2;
+}
+
+.buttonbg {
+  position: absolute;
+  width: 543px;
+  height: 292px;
+  left: 100vh;
+  top: 0vh;
+  z-index: 1;
+  background: #2639ed;
+  border-radius: 90px 60px 90px 150px;
+}

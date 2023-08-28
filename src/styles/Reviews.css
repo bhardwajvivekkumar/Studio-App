@@ -1,0 +1,124 @@
+.reviewsHeading {
+  position: absolute;
+  top: 320vh;
+  left: 75vh;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 5vh;
+  text-align: justify;
+  width: 70vh;
+}
+
+.reviewsAbout{
+    position: absolute;
+    top: 330vh;
+    left: 73vh;
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    width: 75vh;
+    /* z-index: 1; */
+}
+
+.leftprofile{
+    position: absolute;
+    top: 350vh;
+    left: 11vh;
+}
+
+.leftprofile  img:nth-child(2){
+    position: absolute;
+    top: 35vh;
+    left: 0vh;
+    z-index: -1;
+}
+
+.leftprofile  img:nth-child(3){
+    position: absolute;
+    top: 0vh;
+    left: 35vh;
+    z-index: -1;
+}
+
+.reviewerName{
+    position: absolute;
+    top: 360vh;
+    left: 80vh;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 3vh;
+    text-align: justify;
+    width: 70vh;
+}
+
+.review{
+    position: absolute;
+    top: 370vh;
+    left: 80vh;
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    width: 55vh;
+
+}
+
+.centreprofile{
+    position: absolute;
+    top: 370vh;
+    left: 170vh;
+}
+
+.profile1{
+    position: absolute;
+top: 357vh;
+left: 172vh;
+}
+
+.profile2{
+    position: absolute;
+    top: 363vh;
+    left: 188vh;
+}
+
+.profile3{
+    position: absolute;
+    top: 377vh;
+    left: 193vh;
+}
+
+.profile4{
+    position: absolute;
+    top: 387vh;
+    left: 185vh;
+}
+
+.profile4{
+    position: absolute;
+    top: 387vh;
+    left: 185vh;
+}
+
+.profile5{
+    position: absolute;
+    top: 390vh;
+    left: 167vh;
+}
+
+.profile6{
+    position: absolute;
+    top: 380vh;
+    left: 152vh;
+}
+
+.profile7{
+    position: absolute;
+    top: 362vh;
+    left: 155vh;
+}
+
+.profilecircle img{
+    position: absolute;
+    width: 184px;
+height: 184px;
+    top: 370vh;
+    left: 155vh;
+    z-index: -1;
+}

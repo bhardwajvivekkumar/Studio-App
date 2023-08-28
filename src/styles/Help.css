@@ -1,0 +1,256 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+
+.helpHeading {
+  position: absolute;
+  top: 150vh;
+  left: 11vh;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 5vh;
+  z-index: 1;
+}
+
+.helpHeading p {
+  width: 40vh;
+}
+
+.helpBgImg {
+  position: absolute;
+  top: 145vh;
+  left: 11vh;
+  width: 178px;
+  height: 178px;
+  z-index: 0;
+}
+
+.HelpBrief {
+  position: absolute;
+  top: 170vh;
+  left: 11vh;
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  width: 65vh;
+  z-index: 1;
+}
+
+.blueBg {
+  position: absolute;
+  top: 125vh;
+  left: 63vh;
+  z-index: 0;
+}
+
+.box1 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 308px;
+  height: 379px;
+  left: 80vh;
+  top: 120vh;
+  background: #ffffff;
+  border: 1px solid #f2f2f2;
+  box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.05);
+  border-radius: 40px;
+}
+
+.innerBox1 {
+  position: absolute;
+  width: 121px;
+  height: 121px;
+  left: 12vh;
+  top: 5vh;
+  background: #F1F7FF;
+  border-radius: 20px;
+}
+
+.box2 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 308px;
+  height: 379px;
+  left: 130vh;
+  top: 110vh;
+  background: #ffffff;
+  border: 1px solid #f2f2f2;
+  box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.05);
+  border-radius: 40px;
+}
+
+.innerBox2 {
+  position: absolute;
+  width: 121px;
+  height: 121px;
+  left: 12vh;
+  top: 5vh;
+  background:#FFF7E3;
+  border-radius: 20px;
+}
+
+.box3 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 308px;
+  height: 379px;
+  left: 80vh;
+  top: 175vh;
+  background: #ffffff;
+  border: 1px solid #f2f2f2;
+  box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.05);
+  border-radius: 40px;
+}
+
+.innerBox3 {
+  position: absolute;
+  width: 121px;
+  height: 121px;
+  left: 12vh;
+  top: 5vh;
+  background: #FFF2F8;;
+  border-radius: 20px;
+}
+
+.box4 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 308px;
+  height: 379px;
+  left: 130vh;
+  top: 165vh;
+  background: #ffffff;
+  border: 1px solid #f2f2f2;
+  box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.05);
+  border-radius: 40px;
+}
+
+.innerBox4 {
+  position: absolute;
+  width: 121px;
+  height: 121px;
+  left: 12vh;
+  top: 5vh;
+  background: #DEFFEE;;
+  border-radius: 20px;
+}
+
+.box1Heading {
+  position: absolute;
+  top: 20vh;
+  left: 0vh;
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-size: 4vh;
+  z-index: 1;
+  display: flex;
+  text-align: center;
+}
+
+.box1Brief {
+  position: absolute;
+  top: 35vh;
+  left: 0vh;
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  /* width: 65vh; */
+  text-align: center;
+}
+
+.box2Heading {
+  position: absolute;
+  top: 20vh;
+  left: 0vh;
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-size: 4vh;
+  z-index: 1;
+  display: flex;
+  text-align: center;
+}
+
+.box2Brief {
+  position: absolute;
+  top: 35vh;
+  left: 0vh;
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  text-align: center;
+}
+
+.box3Heading {
+  position: absolute;
+  top: 20vh;
+  left: 0vh;
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-size: 4vh;
+  z-index: 1;
+  display: flex;
+  text-align: center;
+}
+
+.box3Brief {
+  position: absolute;
+  top: 35vh;
+  left: 0vh;
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  text-align: center;
+}
+
+.box4Heading {
+  position: absolute;
+  top: 20vh;
+  left: 0vh;
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-size: 4vh;
+  z-index: 1;
+  display: flex;
+  text-align: center;
+}
+
+.box4Brief {
+    position: absolute;
+    top: 35vh;
+    left: 0vh;
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    text-align: center;
+  }
+  
+  .innerBox1 img {
+    position: absolute;
+    top: 2.5vh;
+    left: 2.5vh;
+  }
+
+  .innerBox2 img {
+    position: absolute;
+    top: 3vh;
+    left: 3vh;
+  }
+
+  .innerBox3 img {
+    position: absolute;
+    top: 3vh;
+    left: 3vh;
+  }
+
+  .innerBox4 img {
+    position: absolute;
+    top: 3vh;
+    left: 3vh;
+  }
+
+  .dotimg{
+    position: absolute;
+    top: 195vh;
+    left: 11vh;
+  }
+
+  .ringimg{
+    position: absolute;
+    top: 205vh;
+    left: 165vh;
+    z-index: -1;
+  }

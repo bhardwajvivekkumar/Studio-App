@@ -1,0 +1,153 @@
+.line1 {
+  position: absolute;
+  width: 1200px;
+  height: 0px;
+  left: 11vh;
+  top: 480vh;
+  border: 1px solid #e4e4e4;
+}
+
+.leftfooter .bold{
+    position: relative;
+    font-weight: 900;
+    font-family: 'Roboto Condensed', sans-serif;
+    top: -0.2vh;
+}
+
+.leftfooter{
+    display: flex;
+    position: absolute;
+    left: 10vh;
+    text-indent: 0.5em;
+    font-family: 'Lato', sans-serif;
+    font-size: large;
+    top: 485vh;
+}
+
+.leftFooterBrief{
+    position: absolute;
+    top: 490vh;
+    left: 11vh;
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    width: 35vh;
+    font-size: 1.5vh;
+}
+
+.logo{
+    position: absolute;
+    top: 502vh;
+    left: 11vh;  
+    display: flex; 
+    gap: 2vh;
+}
+
+.line2 {
+    position: absolute;
+    width: 1200px;
+    height: 0px;
+    left: 11vh;
+    top: 513vh;
+    border: 1px solid #e4e4e4;
+  }
+ 
+.signature{
+    position: absolute;
+    top: 515vh;
+    left: 85vh;
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    width: 55vh;
+    font-size: 3vh;
+}
+
+.rightfooter1 .footerbold1{
+    font-size: x-large;
+    position: absolute;
+    top: -7vh;
+    left: 5vh;
+}
+
+.rightfooter1 {
+    display: grid;
+    position: absolute;
+    left: 60vh;
+    top: 490vh;
+    text-indent: 2em;
+    /* font-weight: bold; */
+    font-family: 'Roboto', sans-serif;
+    font-size: small; 
+}
+
+.rightfooter1 ul{
+    height: 0.08vh;
+}
+
+.rightfooter2 .footerbold2{
+    font-size: x-large;
+    position: absolute;
+    top: -7vh;
+    left: 5vh;
+}
+
+.rightfooter2 {
+    display: grid;
+    position: absolute;
+    left: 90vh;
+    top: 490vh;
+    text-indent: 2em;
+    /* font-weight: bold; */
+    font-family: 'Roboto', sans-serif;
+    font-size: small; 
+}
+
+.rightfooter2 ul{
+    height: 0.08vh;
+    left: 500vh;
+}
+
+.rightfooter3 .footerbold3{
+    font-size: x-large;
+    position: absolute;
+    top: -7vh;
+    left: 5vh;
+}
+
+.rightfooter3 {
+    display: grid;
+    position: absolute;
+    left: 120vh;
+    top: 490vh;
+    text-indent: 2em;
+    /* font-weight: bold; */
+    font-family: 'Roboto', sans-serif;
+    font-size: small; 
+}
+
+.rightfooter3 ul{
+    height: 0.08vh;
+    left: 500vh;
+}
+
+.rightfooter4 .footerbold4{
+    font-size: x-large;
+    position: absolute;
+    top: -7vh;
+    left: 5vh;
+}
+
+.rightfooter4 {
+    display: grid;
+    position: absolute;
+    left: 150vh;
+    top: 490vh;
+    text-indent: 2em;
+    /* font-weight: bold; */
+    font-family: 'Roboto', sans-serif;
+    font-size: small; 
+}
+
+.rightfooter4 ul{
+    height: 0.08vh;
+    left: 500vh;
+}

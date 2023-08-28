@@ -1,0 +1,47 @@
+.videoimg{
+    position: absolute;
+    top: 240vh;
+    left: 11vh;
+}
+
+.videoPlay{
+    position: absolute;
+    top: 25vh;
+    left: 35vh;
+}
+
+.circleimg{
+    position: absolute;
+    top: 285vh;
+    left: 80vh;
+    z-index: -1;
+}
+
+.achievementHeading{
+    position: absolute;
+    top: 250vh;
+    left: 105vh;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 5vh;
+    text-align: justify;
+    width: 50vh;
+    /* z-index: 1; */
+   }
+
+.headingBgImg{
+    position: absolute;
+    top: 252vh;
+    left: 100vh;
+    z-index: -1;
+}
+
+.achievementBrief {
+    position: absolute;
+    top: 270vh;
+    left: 105vh;
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    width: 75vh;
+    z-index: 1;
+  }
